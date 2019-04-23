@@ -1,0 +1,26 @@
+-Informações sobre o horario de coleta por meio de mensagens instantaneas.
+
+-guia de coleta e higienização de materiais para reciclagem.
+
+-Caso o munícipe falhe na separação e higienização do lixo o mesmo será advertido e se for recorrente, multado.
+
+-listagem de centros de reciclagem com informações sobre a sua situação atual em relação 
+ao armazenamento dos reciclados e espaço restante. Informações pré obtidas sobre a possibilidade e capacidade do reciclador ou empresa de reciclagem em receber os resíduos.
+
+
+________________________________
+
+Pessoas não sabem quando a coleta passa
+
+Pessoas não separam corretamente o orgânico do reciclável
+
+Problema de roteirização para coleta e descarga do lixo
+
+Definição da quantidade máxima de lixo que pode ser coletada
+
+Informação prévia sobre disponibilidade do reciclado ou empresa de reciclagem em receber o lixo
+
+Empresa de reciclagem não sabe a quantidade de lixo que possa chegar. Quantidade de cada material***.
+
+Falta de informações sobre reciclagem ao cidadão. 
+Horário aleatório de coleta
